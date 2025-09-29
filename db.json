@@ -1,0 +1,12 @@
+{
+    "guilds": [
+        { "id": 1, "name": "Sentinelas"},
+        { "id": 2, "name": "Magi do Norte"}
+    ],
+    "members": [
+        {"id": 1, "name": "Selene Nightgale", "guildId":1},
+        {"id": 2, "name": "Hector Ironbound", "guildId":1},
+        {"id": 3, "name": "Lyra Dawnsong", "guildId":2}
+
+    ]
+}
