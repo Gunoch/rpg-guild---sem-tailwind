@@ -8,10 +8,10 @@ export function Navbar() {
                     <Link to="/" className="text-black">Home</Link>
                 </li>
                 <li className="text-sm lg:text-md">
-                    <Link to="/" className="text-black">Guildas</Link>
+                    <Link to="/guilds" className="text-black">Guildas</Link>
                 </li>
                 <li className="text-sm lg:text-md">
-                    <Link to="/" className="text-black">Membros</Link>
+                    <Link to="/members" className="text-black">Membros</Link>
                 </li>
             </ul>
         </nav>
